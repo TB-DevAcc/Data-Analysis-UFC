@@ -1,5 +1,6 @@
-
-<center><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="35%" /></center>
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="35%" />
+</p>
 
 ## Basic Overview
 
