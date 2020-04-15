@@ -2,6 +2,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="35%" />
 </p>
 
+<img align="left" src="https://img.shields.io/github/contributors/TB-DevAcc/Data-Analysis-UFC">
+<img align="left" src="https://img.shields.io/github/last-commit/TB-DevAcc/Data-Analysis-UFC">
+
 ## :sunrise_over_mountains: Basic Overview
 
 This is a project, that analyzes data from the Ultimate Fighting Championship. 
