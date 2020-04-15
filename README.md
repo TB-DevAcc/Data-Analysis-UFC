@@ -1,15 +1,40 @@
-# DataTomato's Team Repository
+<div style="text-align:center; background:black;width=100%">
+    <img style="margin-top:20px; margin-bottom:20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="50%" />
+</div>
 
-This is a repository for the CoderSchool ML Tonga Class Week 3.
+## Basic Overview
+---
+This is a project, that analyzes data from the Ultimate Fighting Championship. 
 
-## Teammembers:
-Tobias Becher <br>
-Thomas <br>
-Nguyet
+#### Dataset
 
-## Project
-We are analysing UFC Fight Data for Learning Purposes. 
-We aim to provide a good overview over the exisiting data to our main audience: Fighters. 
+You can find more information on [kaggle](https://www.kaggle.com/rajeevw/ufcdata).
 
-A Project Overview with important questions and organizational Information can be found here:
-<a href="https://hackmd.io/EGRYll68SvS1Ekgky9W17Q?view">DataTomato Markdown</a>
+#### Timeframe for the project
+1 week (17.03.20-24.03.20)
+
+#### Presentation
+
+The work is done in a Jupyter Notebook, whereas the final presentation of the results is created with Google Datastudio. A PDF of the report can also be found in the repository.
+
+#### Findings
+
+
+
+## :boy: Author
+---
+**Tobias Becher**
+
+## :raised_hands: Collaborators
+---
+Thomas Luu [@dunglucbac](https://github.com/dunglucbac)<br>
+Nguyet Vo [@nguyetvo](https://github.com/nguyetvo)
+
+## :pray: Acknowledgments
+---
+
+
+## 📝 License
+---
+Copyright © 2020 [Tobias Becher](https://github.com/TB-DevAcc).<br />
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
