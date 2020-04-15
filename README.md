@@ -31,6 +31,9 @@ For more insights, please consult the [report](https://datastudio.google.com/s/o
 ## :boy: Author
 
 **Tobias Becher**
+- GitHub [TB-DevAcc](https://github.com/TB-DevAcc/)
+- LinkedIn [Tobias Becher](https://www.linkedin.com/in/tobias-becher-b34341197)
+- Hackerrank [TB_DevAcc](https://www.hackerrank.com/TB_DevAcc)
 
 ## :raised_hands: Collaborators
 
