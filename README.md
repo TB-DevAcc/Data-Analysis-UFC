@@ -2,6 +2,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="35%" />
 </p>
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 <img align="left" src="https://img.shields.io/github/contributors/TB-DevAcc/Data-Analysis-UFC">
 <img align="left" src="https://img.shields.io/github/last-commit/TB-DevAcc/Data-Analysis-UFC">
 
