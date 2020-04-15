@@ -1,7 +1,7 @@
 
-<div style="text-align:center; background:black;width=100%">
+<div bgcolor="#FF0000">
 
-<img style="margin-left:auto; margin-right:auto; margin-top:20px; margin-bottom:20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="50%" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="50%" />
 
 </div>
 
