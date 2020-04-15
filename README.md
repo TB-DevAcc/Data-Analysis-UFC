@@ -46,5 +46,6 @@ Nguyet Vo [@nguyetvo](https://github.com/nguyetvo)
 
 ## 📝 License
 
+All official UFC images used in the report are property of UFC® and are not included within the MIT license.
 Copyright © 2020 [Tobias Becher](https://github.com/TB-DevAcc).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
