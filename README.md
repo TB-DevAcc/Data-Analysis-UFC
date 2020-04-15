@@ -1,12 +1,8 @@
 
-<div bgcolor="#FF0000">
-
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="50%" />
-
-</div>
+<center><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/500px-UFC_Logo.svg.png" width="35%" /></center>
 
 ## Basic Overview
----
+
 This is a project, that analyzes data from the Ultimate Fighting Championship. 
 
 #### Dataset
@@ -25,19 +21,19 @@ The work is done in a Jupyter Notebook, whereas the final presentation of the re
 
 
 ## :boy: Author
----
+
 **Tobias Becher**
 
 ## :raised_hands: Collaborators
----
+
 Thomas Luu [@dunglucbac](https://github.com/dunglucbac)<br>
 Nguyet Vo [@nguyetvo](https://github.com/nguyetvo)
 
 ## :pray: Acknowledgments
----
+
 
 
 ## 📝 License
----
+
 Copyright © 2020 [Tobias Becher](https://github.com/TB-DevAcc).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
